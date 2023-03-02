@@ -1,2 +1,2 @@
-# Impact-Rating
-Impact rating score information 
+# Impact-Measurement-System
+Impact measurmenent system score information 
