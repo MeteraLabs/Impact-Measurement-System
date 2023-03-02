@@ -7,3 +7,4 @@ The Impact Measurement System (IMS) is a powerful tool designed to assess the su
 
 
 Clean impact rating
+https://docs.google.com/spreadsheets/d/1yBY_nvSLT5_XqEDcj2NOAPgoazn1T45Y/edit?usp=sharing&ouid=115485206639912279397&rtpof=true&sd=true
