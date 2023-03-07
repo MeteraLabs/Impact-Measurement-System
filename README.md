@@ -1,4 +1,4 @@
-# Digital Asset Impact-Measurement-System
+# Digital Asset Impact Measurement System
 Impact measurmenent system score information 
 
 **About**
